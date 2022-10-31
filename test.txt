@@ -1,4 +1,4 @@
 new text
 new message in this line
-
+new line in line 3
 this is line 4
